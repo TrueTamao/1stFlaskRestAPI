@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\LENOVO\\.virtualenvs\\StripeTest-K2tvisYX\\Scripts\\python.exe",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint-flask_"]
+}
